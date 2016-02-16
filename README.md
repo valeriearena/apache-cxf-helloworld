@@ -5,12 +5,12 @@ Follow the Setup Steps below.
 
 *************** Setup Steps ***************
 
-Clone the apache-cxf-helloworld repo.
-Copy apache-cxf-helloworld/setup/tomee.xml to TOMEE_HOME/conf.
-Copy apache-cxf-helloworld/setup/logging.properties to TOMEE_HOME/conf.
-Run build.gradle.
-Copy apache-cxf-helloworld/build/libs/apache-cxf-helloworld.war to TOMEE_HOME/webapps.
-Tail TOMEE_HOME/logs/catalina.out.
+1. Clone the apache-cxf-helloworld repo.
+2. Copy apache-cxf-helloworld/setup/tomee.xml to TOMEE_HOME/conf.
+3. Copy apache-cxf-helloworld/setup/logging.properties to TOMEE_HOME/conf.
+4. Run build.gradle.
+5. Copy apache-cxf-helloworld/build/libs/apache-cxf-helloworld.war to TOMEE_HOME/webapps.
+6. Tail TOMEE_HOME/logs/catalina.out.
 
 *************** Execution Steps ***************
 

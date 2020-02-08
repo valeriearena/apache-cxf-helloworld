@@ -1,5 +1,4 @@
-# tomee-apache-cxf-hello-world
-TomEE Hello Worlds with Apache CXF implementations of JAX-RS and JAX-WS.
+# TomEE Hello Worlds with Apache CXF implementations of JAX-RS and JAX-WS.
 
 Follow the Setup Steps below.
 

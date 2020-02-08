@@ -1,14 +1,14 @@
-# TomEE Hello Worlds with Apache CXF implementations of JAX-RS and JAX-WS.
+# Web app with Apache CXF implementations of JAX-RS and JAX-WS that can be deployed to TomEE (Enterprise Tomcat).
 
 Follow the Setup Steps below.
 
 *************** Setup Steps ***************
 
-1. Clone the apache-cxf-helloworld repo.
-2. Copy apache-cxf-helloworld/setup/tomee.xml to TOMEE_HOME/conf.
-3. Copy apache-cxf-helloworld/setup/logging.properties to TOMEE_HOME/conf.
+1. Clone repo.
+2. Copy webapp-apache-cxf/setup/tomee.xml to TOMEE_HOME/conf.
+3. Copy webapp-apache-cxf/setup/logging.properties to TOMEE_HOME/conf.
 4. Run build.gradle.
-5. Copy apache-cxf-helloworld/build/libs/apache-cxf-helloworld.war to TOMEE_HOME/webapps.
+5. Copy webapp-apache-cxf/build/libs/apache-cxf-helloworld.war to TOMEE_HOME/webapps.
 6. Tail TOMEE_HOME/logs/catalina.out.
 
 *************** Execution Steps ***************

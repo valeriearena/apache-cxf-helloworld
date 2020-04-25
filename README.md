@@ -1,4 +1,5 @@
-# Web app with Apache CXF implementations of JAX-RS and JAX-WS that can be deployed to TomEE (Enterprise Tomcat).
+# webapp-apache-cxf
+Web app with Apache CXF implementations of JAX-RS and JAX-WS that can be deployed to TomEE (Enterprise Tomcat).
 
 Follow the Setup Steps below.
 
